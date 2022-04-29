@@ -1,7 +1,10 @@
 # Machine_learning_portfolio
-This is a set of personnal AI/Machine learning/Data science projects that I do in my free time.
+This is a set of personal AI/Machine learning/Data science projects that I do in my free time.
 
 ## Contents
+- ### Classification
+	- [Titanic](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Titanic)(**Data analysis**, **Random Forest**,  **Classification**)
+ The project comes from the well-known Titanic data-set. In [Titanic_analysis.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Titanic/Titanic_analysis.ipynb), we explore the data and try to select the more significant attributes. Then, we try to predict the attribute *survive* using a **Random Forest** in the notebook [Titanic_Estimation_RandomForest.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Titanic/Titanic_Estimation_RandomForest.ipynb). Finally, we create a neural network using ***Pytorch lightning*** when we find a model to realize the same prediction  [Titanic_Estimation_Pytorch.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Titanic/Titanic_Estimation_Pytorch.ipynb).
 
 - ### Image classification
 	- [Chest_X_Ray](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Chext_X_Ray) (**Tensorflow**, **Image processing**, **Classification**)
