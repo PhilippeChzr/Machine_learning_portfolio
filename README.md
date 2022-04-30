@@ -18,7 +18,7 @@ In this simple notebook [CGan.ipynb](https://github.com/PhilippeChzr/Machine_lea
 
 - ### Time series predictions (*in progress*)
 	- [Turbofan](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Turbofan) (**Time series analysis**, **Predictions**, **Pytorch lightning**) 
-In this project, we try to predict the moment when a machine, a turbofan, will break down (RUL). In the first norbook, [Turbofan.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Turbofan/Turbofan.ipynb),  we study the *train_FD001.txt* dataset. We look for the most significant attributes to predict the RUL. We select the good attributes, *settings* *sensors*. In the second notebook [Turbofan_lstm.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Turbofan/Turbofan_lstm.ipynb), we try to predict the RUL using a LSTM model trained in **Pytorch lightning*. Unfortnately, the current results are not enough accurate. 
+In this project, we try to predict the moment when a machine, a turbofan, will break down (RUL). In the first notebook, [Turbofan.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Turbofan/Turbofan.ipynb),  we study the *train_FD001.txt* dataset. We look for the most significant attributes to predict the RUL. We select the good attributes, *settings* *sensors*. In the second notebook [Turbofan_lstm.ipynb](https://github.com/PhilippeChzr/Machine_learning_portfolio/blob/main/Turbofan/Turbofan_lstm.ipynb), we try to predict the RUL using a LSTM model trained in **Pytorch lightning*. Unfortunately, the current results are not enough accurate. 
 
 
 	_Tools: Tensorflow, Pytorch lightning, PIL, OpenCV, Numpy, Pandas, matplotlib, seaborn_ 
